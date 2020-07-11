@@ -1,0 +1,71 @@
+ #all {
+     width: 900px;
+     height: 500px;
+     margin-left: 2cm;
+     margin-right: 2cm;
+     border: 1px solid black;
+ }
+ 
+ div {
+     border: black 5px solid;
+ }
+ 
+ #head {
+     background-color: grey;
+     border: 3px double black solid;
+     text-align: center;
+     width: 800px;
+     padding-top: 1em;
+ }
+ 
+ #details {
+     text-align: centre;
+ }
+ 
+ #personal {
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ #results table td {
+     padding-right: 5000px;
+ }
+ 
+ #dets {
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ #dets ul li {
+     list-style: none;
+ }
+ 
+ table {
+     border-style: solid;
+     border-width: 3px;
+     width: 100%;
+ }
+ 
+ #personal section {
+     flex: 100%;
+ }
+ 
+ #one {
+     background-color: grey;
+ }
+ 
+ #two {
+     background-color: grey;
+ }
+ 
+ #three {
+     background-color: white;
+ }
+ 
+ #four {
+     background-color: lavenda;
+ }
+ 
+ #five {
+     background-color: grey;
+ }
